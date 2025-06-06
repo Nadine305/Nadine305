@@ -60,7 +60,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nadine305/Nadine305/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
