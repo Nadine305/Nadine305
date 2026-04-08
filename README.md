@@ -2,6 +2,109 @@
 
 ###
 
+<h3 align="left">👩‍💻 Who am I?</h3>
+
+<p align="left">
+I'm <b>Nadine Hazem</b>, a Computer Science student specializing in <b>Artificial Intelligence</b> at Cairo University 🎓.<br><br>
+I’m passionate about <b>AI, Machine Learning, and Data Science</b>, with hands-on experience in building models for <b>Computer Vision, NLP, and optimization problems</b>.<br><br>
+I enjoy simplifying complex concepts and continuously learning new technologies.
+</p>
+
+###
+
+<h3 align="left">🚀 What I'm currently working on</h3>
+
+<p align="left">
+• Improving my skills in <b>Machine Learning & Deep Learning</b><br>
+• Working on projects in <b>Computer Vision (CNN, YOLO)</b><br>
+• Exploring <b>NLP and Reinforcement Learning concepts</b><br>
+• Practicing problem solving and real-world AI applications
+</p>
+
+###
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+</div>
+
+###
+
+<h3 align="left">📊 Projects</h3>
+
+<p align="left">
+• Facial Expression Recognition (7 emotions - Computer Vision)<br>
+• Brain Tumor Detection (MRI + Deep Learning)<br>
+• MNIST Digit Classification (CNN)<br>
+• Ant Colony Optimization for TSP<br>
+• Maze Solving Robot (Python + sensors)<br>
+• Book Library Web App<br>
+• Bank Management System
+</p>
+
+###
+
+<h3 align="left">💼 Experience</h3>
+
+<p align="left">
+• AI & Data Science Intern - NARSS<br>
+• Machine Learning & NLP Intern - NTI<br>
+• Math Teaching Assistant
+</p>
+
+###
+
+<h3 align="left">📫 How to reach me</h3>
+
+<p align="left">
+📧 Email: nadinehazem399@gmail.com<br>
+💻 GitHub: https://github.com/Nadine305<br>
+🔗 LinkedIn: https://linkedin.com/in/nadine-hazem-748b88264/<br>
+📱 Phone: +20 1092085545
+</p>
+
+###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1wcGdnOHh5dDcyZHd5dTJrY2d1bXB1MXlsZ2o1ZTYzYjEwZzVvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" />
+<!-- <h2 align="left">Hi 👋! My name is Nadine</h2>
+
+###
+
 <h3 align="left">languages</h3>
 
 ###
@@ -44,25 +147,7 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
-
-###
-
-
-
-###
 
 <br clear="both">
 
@@ -70,9 +155,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadine305&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nadine305&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+
+### -->
